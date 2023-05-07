@@ -7,7 +7,17 @@ import java.awt.datatransfer.Clipboard;
 import java.awt.datatransfer.StringSelection;
 import java.awt.event.*;
 import javax.swing.*;
-
+/*
+ * Copyright (c) 2023 Shady Ahmed.
+ * All rights reserved.
+ *
+ * This software is the confidential and proprietary information
+ * of Shady Ahmed. You shall not disclose such Confidential Information
+ * and shall use it only in accordance with the terms of the license
+ * agreement you entered into with Shady Ahmed.
+ *
+ * Created on May 7, 2023 at 10:30 AM
+ */
 public class PasswordGeneratorView extends JFrame {
     private JLabel passwordLabel;
     private JTextField passwordField;
